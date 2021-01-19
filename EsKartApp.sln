@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsKartApp", "EsKartApp\EsKartApp.csproj", "{B84E9345-2A24-409C-8A58-CD09869314FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B84E9345-2A24-409C-8A58-CD09869314FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B84E9345-2A24-409C-8A58-CD09869314FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B84E9345-2A24-409C-8A58-CD09869314FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B84E9345-2A24-409C-8A58-CD09869314FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D96BF30-0BCD-4EE7-BAEC-3CBEAE20FE4B}
+	EndGlobalSection
+EndGlobal
